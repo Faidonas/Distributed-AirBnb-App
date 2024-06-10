@@ -23,3 +23,12 @@ The backend architecture employs:
   - Distributed storage of room data across three worker nodes.
   - Efficient query processing using a custom MapReduce logic.
   - Robust communication through TCP sockets between master, workers, and users.
+ 
+## Images
+![Image Description]("D:\OneDrive - aueb.gr\Docs\sxoli\Year 3\Katanemimena\Photos\Screenshot_2024-06-11-00-46-16-319_com.example.dsfrontendproject.jpg")
+![Image Description]("D:\OneDrive - aueb.gr\Docs\sxoli\Year 3\Katanemimena\Photos\Screenshot_2024-06-11-00-46-28-190_com.example.dsfrontendproject.jpg")
+![Image Description]("D:\OneDrive - aueb.gr\Docs\sxoli\Year 3\Katanemimena\Photos\Screenshot_2024-06-11-01-06-57-196_com.example.dsfrontendproject.jpg")
+
+
+ 
+
