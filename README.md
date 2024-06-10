@@ -25,7 +25,7 @@ The backend architecture employs:
   - Robust communication through TCP sockets between master, workers, and users.
  
 ## Images
-<img src="Photos/Screenshot_2024-06-11-00-46-16-319_com.example.dsfrontendproject.jpg" alt="Image Description" width="250">  <img src="Photos/Screenshot_2024-06-11-00-46-28-190_com.example.dsfrontendproject.jpg" alt="Image Description" width="250">  <img src="Photos/Screenshot_2024-06-11-01-06-57-196_com.example.dsfrontendproject.jpg" alt="Image Description" width="250">
+<img src="Photos/Screenshot_2024-06-11-01-06-57-196_com.example.dsfrontendproject.jpg" alt="Image Description" width="250">    <img src="Photos/Screenshot_2024-06-11-00-46-16-319_com.example.dsfrontendproject.jpg" alt="Image Description" width="250">    <img src="Photos/Screenshot_2024-06-11-00-46-28-190_com.example.dsfrontendproject.jpg" alt="Image Description" width="250">  
 
 
 
